@@ -1,0 +1,7 @@
+pillow
+transformers
+yolov5
+pytesseract
+opencv-python
+numpy
+torch
